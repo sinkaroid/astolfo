@@ -1,0 +1,31 @@
+{
+  "name": "astolfo",
+  "version": "0.0.4",
+  "description": "generate your random Astolfo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "eslint --ignore-path .gitignore ."
+  },
+  "typings": "typings/index.d.ts",
+  "repository": "git://github.com/sinkaroid/astolfo.git",
+  "keywords": [
+    "astolfo",
+    "fgo",
+    "fate/grand order",
+    "trap",
+    "bestrap"
+  ],
+  "engines": {
+    "node": ">=8.x"
+  },
+  "author": "sinkaroid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinkaroid/astolfo/issues"
+  },
+  "homepage": "https://github.com/sinkaroid/astolfo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
